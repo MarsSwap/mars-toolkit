@@ -1,6 +1,6 @@
 {
   "name": "@marsswap-libs/eslint-config-mars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config for MarsSwap",
   "main": "lib/index.js",
   "files": [
