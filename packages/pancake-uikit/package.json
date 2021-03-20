@@ -1,6 +1,6 @@
 {
-  "name": "@marsswap-libs/uikit",
-  "version": "1.0.1",
+  "name": "@marsswap/uikit",
+  "version": "1.0.2",
   "description": "Set of UI components for mars projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -49,5 +49,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "42a6af61cfde736a1bfb2cf3b3d0e3d22f414ed2"
 }
